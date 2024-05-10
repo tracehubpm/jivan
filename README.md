@@ -7,7 +7,7 @@ and [ML](https://en.wikipedia.org/wiki/Machine_learning) techniques.
 **Motivation**. Machine Learning and Large Language Model techniques offer
 promising results in the area of code understanding. In some cases it can
 outperform traditional tools like [SpotBugs], [PMD], and [Infer]. Moreover,
-our analyzer trys to analyze the social aspect of coding (code authorship
+our analyzer tries to analyze the social aspect of coding (code authorship
 in Git, team responses, etc.). Besides that, here are no publicly available
 and easy to use static analyzers for Java, which would be based on some LLM/ML
 models.
