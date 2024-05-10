@@ -24,7 +24,7 @@ provided they don't violate our quality standards. To avoid frustration,
 before sending us your pull request please run full Maven build:
 
 ```bash
-mvn clean install
+mvn clean install -Pqulice
 ```
 
 You will need [Maven 3.3+], [Java 8+], and [Python 3.11+] installed
